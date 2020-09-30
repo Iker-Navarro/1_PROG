@@ -1,0 +1,11 @@
+FACTURA #42
+
+CLIENTE: c c
+FECHA: 07/06/2020
+-----------------------
+PRODUCTO	CANTIDAD	PRECIO
+prod 3	12 unidades	200.0€
+PROD 11	12 unidades	15.0€
+-----------------------
+TOTAL 	2580€
+-----------------------

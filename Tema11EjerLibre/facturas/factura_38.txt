@@ -1,0 +1,12 @@
+FACTURA #38
+
+CLIENTE: IKER NAVARRO
+FECHA: 07/06/2020
+-----------------------
+PRODUCTO	CANTIDAD	PRECIO
+prod 3	122 unidades	200.0€
+prod 4	32 unidades	200.0€
+prod 8	12 unidades	200.0€
+PROD 11	12 unidades	15.0€
+-----------------------
+TOTAL 	33380€-----------------------

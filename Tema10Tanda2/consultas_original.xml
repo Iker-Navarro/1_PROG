@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<consultas>
+  <medico nombre="Dr Saez">
+    <consulta>
+      <hora>9:30</hora>
+      <paciente>Mila Gil</paciente>
+    </consulta>
+    <consulta>
+      <hora>12:00</hora>
+      <paciente>Mila Gil</paciente>
+    </consulta>
+  </medico>
+  <medico nombre="Dra Artea">
+    <consulta>
+      <hora>10:00</hora>
+      <paciente>Jose Artola</paciente>
+    </consulta>
+    <consulta>
+      <hora>15:30</hora>
+      <paciente>Juan Gomez</paciente>
+    </consulta>
+  </medico>
+  <medico nombre="Dr Cabeza">
+    <consulta>
+      <hora>9:30</hora>
+      <paciente>Sergio Lopez</paciente>
+    </consulta>
+  </medico>
+  <medico nombre="Dra Kholn" />
+</consultas>

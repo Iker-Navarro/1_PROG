@@ -1,0 +1,5 @@
+FACTURA 36
+PRODUCTO	CANTIDAD	PRECIO
+PRODUCTO 2	12 unidades	100.0€
+prod 4	12 unidades	200.0€
+prod 6	32 unidades	200.0€

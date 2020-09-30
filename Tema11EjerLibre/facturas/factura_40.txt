@@ -1,0 +1,10 @@
+FACTURA #40
+
+CLIENTE: c c
+FECHA: 07/06/2020
+-----------------------
+PRODUCTO	CANTIDAD	PRECIO
+PRODUCTO 2	1 unidades	100.0€
+-----------------------
+TOTAL 	100€
+-----------------------

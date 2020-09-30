@@ -1,0 +1,11 @@
+FACTURA #45
+
+CLIENTE: a a
+FECHA: 07/06/2020
+-----------------------
+PRODUCTO	CANTIDAD	PRECIO
+prod 5	12 unidades	200.0€
+prod 10	123 unidades	200.0€
+-----------------------
+TOTAL 	27000€
+-----------------------

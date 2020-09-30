@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vuelos destino="Sevilla">
+  <vuelo id="ib1212">
+    <origen>Bilbao</origen>
+    <hora>11:15</hora>
+    <escala />
+  </vuelo>
+  <vuelo id="ib12122">
+    <origen>Vitoria</origen>
+    <hora>13:15</hora>
+  </vuelo>
+  <vuelo id="ib1213">
+    <origen>Madrid</origen>
+    <hora>15:15</hora>
+    <escala />
+  </vuelo>
+  <vuelo id="ib1214">
+    <origen>Bilbao</origen>
+    <hora>23:15</hora>
+    <escala />
+  </vuelo>
+</vuelos>

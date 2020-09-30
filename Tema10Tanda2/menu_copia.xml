@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<platos>
+	<plato tipo = "principal" nombre = "Lamb Chops">
+		<precio>14.2</precio>
+		<imagen>img/lambchops.jpg</imagen>
+	</plato>
+	<plato tipo = "adicional" nombre = "Grilled veg">
+		<precio>8.4</precio>
+		<imagen>img/grilledVeg.jpg</imagen>
+	</plato>
+	<plato tipo = "adicional" nombre = "Wine">
+		<precio>16.5</precio>
+		<imagen>img/wine.jpg</imagen>
+	</plato>
+	<plato tipo = "primero" nombre = "Salad">
+		<precio>5</precio>
+		<imagen>img/salad.jpg</imagen>
+	</plato>
+</platos>

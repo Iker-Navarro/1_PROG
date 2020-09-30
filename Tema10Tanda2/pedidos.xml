@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<raiz>
+  <pedidos fecha="21-3" />
+  <pedidos fecha="21-5">
+    <pedido>
+      <primero>Salad</primero>
+      <principal>Lamb Chops</principal>
+      <adicionales>
+        <adicional>Wine</adicional>
+      </adicionales>
+    </pedido>
+    <pedido>
+      <primero>Salad 2</primero>
+      <principal>Lamb Chops</principal>
+      <adicionales>
+        <adicional>Coca cola</adicional>
+        <adicional>Agua</adicional>
+        <adicional>Wine</adicional>
+      </adicionales>
+    </pedido>
+    <pedido>
+      <primero>Salad 2</primero>
+      <principal>hamburguesa</principal>
+    </pedido>
+    <pedido>
+      <primero>Salad 2</primero>
+      <principal>Lamb Chops</principal>
+      <adicionales>
+        <adicional>Agua</adicional>
+      </adicionales>
+    </pedido>
+    <pedido>
+      <primero>Salad 2</primero>
+      <principal>Lamb Chops</principal>
+      <adicionales>
+        <adicional>Agua</adicional>
+      </adicionales>
+    </pedido>
+    <pedido>
+      <primero>Salad 2</primero>
+      <principal>Lamb Chops</principal>
+      <adicionales>
+        <adicional>Wine</adicional>
+      </adicionales>
+    </pedido>
+  </pedidos>
+  <pedidos fecha="222-5">
+    <pedido>
+      <primero>Salad 2</primero>
+      <principal>hamburguesa</principal>
+      <adicionales>
+        <adicional>Agua</adicional>
+        <adicional>Wine</adicional>
+        <adicional>Wine</adicional>
+      </adicionales>
+    </pedido>
+    <pedido>
+      <primero>Salad 2</primero>
+      <principal>hamburguesa</principal>
+      <adicionales>
+        <adicional>Agua</adicional>
+        <adicional>Wine</adicional>
+        <adicional>Wine</adicional>
+      </adicionales>
+    </pedido>
+    <pedido>
+      <primero>Salad 2</primero>
+      <principal>Lamb Chops</principal>
+    </pedido>
+  </pedidos>
+  <pedidos fecha="22-5">
+    <pedido>
+      <primero>Salad 2</primero>
+      <principal>Lamb Chops</principal>
+      <adicionales>
+        <adicional>Wine</adicional>
+      </adicionales>
+    </pedido>
+  </pedidos>
+</raiz>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<platos>
+	<plato tipo = "principal" nombre = "Lamb Chops">
+		<precio>14.2</precio>
+		<imagen>img/lambchops.jpg</imagen>
+	</plato>
+	<plato tipo = "principal" nombre = "hamburguesa">
+		<precio>13.2</precio>
+	</plato>
+	<plato tipo = "adicional" nombre = "Grilled veg">
+		<precio>8.4</precio>
+	</plato>
+	<plato tipo = "adicional" nombre = "Coca cola">
+		<precio>1.8</precio>
+	</plato>
+	<plato tipo = "adicional" nombre = "Agua">
+		<precio>1</precio>
+	</plato>
+	<plato tipo = "adicional" nombre = "Wine">
+		<precio>16.5</precio>
+	</plato>
+	<plato tipo = "adicional" nombre = "Wine">
+		<precio>16.5</precio>
+	</plato>
+	<plato tipo = "adicional" nombre = "Wine">
+		<precio>16.5</precio>
+	</plato>
+	<plato tipo = "adicional" nombre = "Wine">
+		<precio>16.5</precio>
+	</plato>
+	<plato tipo = "adicional" nombre = "Wine">
+		<precio>16.5</precio>
+	</plato>
+	<plato tipo = "adicional" nombre = "Wine">
+		<precio>16.5</precio>
+	</plato>
+	<plato tipo = "adicional" nombre = "Wine">
+		<precio>16.5</precio>
+	</plato>
+	<plato tipo = "primero" nombre = "Salad">
+		<precio>5</precio>
+		<imagen>img/salad.jpg</imagen>
+	</plato>
+	<plato tipo = "primero" nombre = "Salad 2">
+		<precio>6</precio>
+		<imagen>img/salad.jpg</imagen>
+	</plato>
+</platos>

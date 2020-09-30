@@ -1,0 +1,10 @@
+FACTURA #37
+
+CLIENTE: b b
+FECHA: 2020-06-07
+-----------------------PRODUCTO	CANTIDAD	PRECIO
+prod 6	12 unidades	200.0€
+prod 7	23 unidades	200.0€
+PROD 20	12 unidades	15.0€
+PROD 21	1 unidades	15.0€
+-----------------------TOTAL 	7195€-----------------------

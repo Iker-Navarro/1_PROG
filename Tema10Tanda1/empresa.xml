@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<departamentos>
+  <departamento nombre="Dep 1">
+    <facturacion>223.0</facturacion>
+  </departamento>
+  <departamento nombre="Dep 2">
+    <facturacion>229.5</facturacion>
+  </departamento>
+  <departamento nombre=" Dep 3">
+    <facturacion>1234.5</facturacion>
+  </departamento>
+  <departamento nombre=" Dep 4">
+    <facturacion>342.54</facturacion>
+  </departamento>
+  <departamento nombre="Dep 5">
+    <facturacion>123.43</facturacion>
+  </departamento>
+  <departamento nombre="Dep 6">
+    <facturacion>1000.0</facturacion>
+  </departamento>
+</departamentos>
